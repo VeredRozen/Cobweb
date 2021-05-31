@@ -1,0 +1,13 @@
+C:\Users\vered\source\repos\CobwebsGame\CobwebsGame\bin\Debug\netcoreapp3.1\CobwebsGame.exe
+C:\Users\vered\source\repos\CobwebsGame\CobwebsGame\bin\Debug\netcoreapp3.1\CobwebsGame.deps.json
+C:\Users\vered\source\repos\CobwebsGame\CobwebsGame\bin\Debug\netcoreapp3.1\CobwebsGame.runtimeconfig.json
+C:\Users\vered\source\repos\CobwebsGame\CobwebsGame\bin\Debug\netcoreapp3.1\CobwebsGame.runtimeconfig.dev.json
+C:\Users\vered\source\repos\CobwebsGame\CobwebsGame\bin\Debug\netcoreapp3.1\CobwebsGame.dll
+C:\Users\vered\source\repos\CobwebsGame\CobwebsGame\bin\Debug\netcoreapp3.1\CobwebsGame.pdb
+C:\Users\vered\source\repos\CobwebsGame\CobwebsGame\obj\Debug\netcoreapp3.1\CobwebsGame.csprojAssemblyReference.cache
+C:\Users\vered\source\repos\CobwebsGame\CobwebsGame\obj\Debug\netcoreapp3.1\CobwebsGame.AssemblyInfoInputs.cache
+C:\Users\vered\source\repos\CobwebsGame\CobwebsGame\obj\Debug\netcoreapp3.1\CobwebsGame.AssemblyInfo.cs
+C:\Users\vered\source\repos\CobwebsGame\CobwebsGame\obj\Debug\netcoreapp3.1\CobwebsGame.csproj.CoreCompileInputs.cache
+C:\Users\vered\source\repos\CobwebsGame\CobwebsGame\obj\Debug\netcoreapp3.1\CobwebsGame.dll
+C:\Users\vered\source\repos\CobwebsGame\CobwebsGame\obj\Debug\netcoreapp3.1\CobwebsGame.pdb
+C:\Users\vered\source\repos\CobwebsGame\CobwebsGame\obj\Debug\netcoreapp3.1\CobwebsGame.genruntimeconfig.cache
