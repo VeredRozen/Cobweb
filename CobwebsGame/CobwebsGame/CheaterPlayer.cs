@@ -5,7 +5,7 @@ using System.Threading;
 
 namespace CobwebsGame
 {
-    class CheaterPlayer : IObserver, IObservable
+    class CheaterPlayer : IObserver, IObservable, IPlayer
     {
         List<IObserver> players;
         List<int> numToRand;

@@ -4,7 +4,7 @@ using System.Text;
 
 namespace CobwebsGame
 {
-    class ThoroughCheaterPlayer : IObserver, IObservable
+    class ThoroughCheaterPlayer : IObserver, IObservable, IPlayer
     {
         List<IObserver> players;
         List<int> numToRand;

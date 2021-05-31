@@ -6,11 +6,11 @@ namespace CobwebsGame
 {
     enum PlayersEnum
     {
-        Random = 0,
-        Memory = 1,
-        Cheater = 2,
-        Thorough = 3,
-        ThoroughCheater = 4
+        Random = 1,
+        Memory = 2,
+        Cheater = 3,
+        Thorough = 4,
+        ThoroughCheater = 5
 
     }
 }
